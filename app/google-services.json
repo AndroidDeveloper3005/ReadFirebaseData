@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704203006488",
+    "firebase_url": "https://readfirebasedata-de907.firebaseio.com",
+    "project_id": "readfirebasedata-de907",
+    "storage_bucket": "readfirebasedata-de907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704203006488:android:0ca6ce28f78a2d60",
+        "android_client_info": {
+          "package_name": "com.example.himel.readfirebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704203006488-sh52f3blr8ueb4sla1lhi48kec0r9lcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himel.readfirebasedata",
+            "certificate_hash": "44b0efc0043ecf343c8b4556c0bb89e021bf248e"
+          }
+        },
+        {
+          "client_id": "704203006488-h8kr9j3lgk3m4ve8pe5phnqeue94r96b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArVbFnMtHfyQvjj26raS7a3jhR_aozJoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704203006488-h8kr9j3lgk3m4ve8pe5phnqeue94r96b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
